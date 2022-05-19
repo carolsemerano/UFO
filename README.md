@@ -32,7 +32,7 @@ The purpose of this analysis is to create a user-friendly and responsive visuali
 
 ## Summary
 
-The new webpage design offers a set of filters that allow users to search for more relevant information. However, each filter is based on user inputs, without any error treatment. As a result, if a user enters some value that does not match the data. For example, wrong date format, a city that did not register any UFO occurrences, and so on. Also, the text in gray inside each filter might be confused with a real value. Still, a placeholder is necessary to inform the right format expected for each field.
+The new webpage design offers a set of filters that allow users to search for more relevant information. However, each filter is based on user inputs, without any error treatment. As a result, if a user enters some value that does not match the data, their experience might be confusing. For example, wrong date format, a city that did not register any UFO occurrences, and so on. Also, the text in gray inside each filter might be confused with a real value. Still, a placeholder is necessary to inform the right format expected for each field.
 
 A few changes should improve the user experience:
 - Create drop-down lists, showing only valid values for country, state, and shape.
