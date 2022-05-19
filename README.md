@@ -14,7 +14,7 @@ The purpose of this analysis is to create a user-friendly and responsive visuali
 
 ![Default](static/images/DefaultVisualisation.png)
 
-- User can fill any of the available filters, or combine multiple filters to create a criteria.
+- Users can fill any of the available filters, or combine multiple filters to create a criteria.
 
 ![Filter](static/images/Filters.png)
 
