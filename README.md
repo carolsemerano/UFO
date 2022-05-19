@@ -10,18 +10,23 @@ The purpose of this analysis is to create a user-friendly and responsive visuali
 ![Layout](static/images/PageLayout.png)
 
 - By default, the table shows all data available. That is the visualisation when first open [index.html](index.html).
+
 ![Default](static/images/DefaultVisualisation.png)
 
 - User can fill any of the available filters, or combine multiple filters to create a criteria.
+
 ![Filter](static/images/Filters.png)
 
 - In this example, data was filtered by country. In the field "Enter a Country" was typed "ca" for Canada.
+
 ![Country](static/images/FilterByCountry.png)
 
 - Then, "disk" was entered in the field "Enter a Shape".
+
 ![CombiningFilters](static/images/CombiningFilters.png)
 
 - To remove a filter, just delete the text in the field. In the example, the country criteria was removed, resulting in all occurrences of disk observations in Canada and in the US.
+
 ![RemovingFilter](static/images/RemovingFilter.png)
 
 ## Summary
