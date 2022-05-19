@@ -7,6 +7,7 @@ The purpose of this analysis is to create a user-friendly and responsive visuali
 ## Results
 
 - Webpage Layout
+
 ![Layout](static/images/PageLayout.png)
 
 - By default, the table shows all data available. That is the visualisation when first open [index.html](index.html).
