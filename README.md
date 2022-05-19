@@ -26,7 +26,7 @@ The purpose of this analysis is to create a user-friendly and responsive visuali
 
 ![CombiningFilters](static/images/CombiningFilters.png)
 
-- To remove a filter, just delete the text in the field. In the example, the country criteria was removed, resulting in all occurrences of disk observations in Canada and in the US.
+- To remove a filter, just delete the text in the field. In the example, country was removed from the criteria, resulting in all occurrences of disk observations in Canada and in the US.
 
 ![RemovingFilter](static/images/RemovingFilter.png)
 
